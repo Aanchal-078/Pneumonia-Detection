@@ -1,4 +1,4 @@
-# Pneumonia-Detection
+# •	Ensemb-Care: AI Diagnosis for Respiratory Conditions
 This project focuses on developing a deep learning-based image classification system designed to identify three classes from medical images: PNEUMONIA, NORMAL, and COVID. Leveraging ensemble learning, the system analyzes chest X-ray images using three powerful pretrained models: MobileNet, ResNet, and VGG16. This approach harnesses convolutional layers for feature extraction and dense layers for classification, enhancing prediction accuracy and providing a reliable, automated diagnostic tool.
 
 **Advantages**
