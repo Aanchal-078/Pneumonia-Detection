@@ -1,7 +1,5 @@
 # Pneumonia-Detection
-This project leverages ensemble learning to classify chest X-ray images as COVID, Pneumonia, or Normal. We use three pretrained models MobileNet, ResNet, and VGG16 to improve prediction accuracy. The system allows users to upload X-ray images and get a diagnosis, providing an efficient AI-powered solution for respiratory condition detection.
-
-ENSEMB-CARE is an innovative diagnostic tool that leverages ensemble learning to analyze chest X-ray images and detect respiratory conditions, including COVID-19 and Pneumonia. By combining three powerful pretrained models: MobileNet, ResNet, and VGG16, this system enhances prediction accuracy, providing a reliable, automated approach to diagnosing respiratory illnesses. ENSEMB-CARE demonstrates the potential of AI to assist healthcare professionals in making timely, data-driven decisions that improve patient outcomes and support early intervention.
+This project focuses on developing a deep learning-based image classification system designed to identify three classes from medical images: PNEUMONIA, NORMAL, and COVID. Leveraging ensemble learning, the system analyzes chest X-ray images using three powerful pretrained models: MobileNet, ResNet, and VGG16. This approach harnesses convolutional layers for feature extraction and dense layers for classification, enhancing prediction accuracy and providing a reliable, automated diagnostic tool.
 
 **Advantages**
 
@@ -23,3 +21,5 @@ Black-Box Model: Deep learning models lack transparency, which can make it chall
 Model Accuracy: The ensemble model, incorporating MobileNet, ResNet, and VGG16, achieved a high classification accuracy, outperforming each individual model in detecting COVID, Pneumonia, and normal conditions.
 Improved Prediction Consistency: By using ensemble learning, ENSEMB-CARE shows improved consistency across different types of respiratory conditions, indicating the robustness of the model in various scenarios.
 User Testing: Initial tests show that the interface is intuitive, with users able to upload X-ray images and receive reliable predictions quickly.
+
+ENSEMB-CARE exemplifies the potential of AI to assist healthcare professionals in making timely, data-driven decisions that improve patient outcomes and support early intervention in respiratory conditions.
